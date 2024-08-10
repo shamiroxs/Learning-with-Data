@@ -3,6 +3,15 @@
 ## Overview
 This project analyzes various trends and distributions within the British Film Institute (BFI) film industry data. The analyses include:
 
+## Key Questions Addressed
+This analysis aims to answer the following key questions:
+1. **Which distributors are generating the most revenue?**
+2. **How is the revenue changing over time?**
+3. **Which films are experiencing significant week-over-week changes in revenue?**
+4. **Do more film releases correlate with higher overall weekend gross?**
+5. **Are there particular weeks where films tend to generate more cumulative revenue?**
+
+## Analysis and Insights
 - **Trend Analysis**: Examining revenue growth over time.
 - **Distributor Analysis**: Comparing total gross revenue across different film distributors.
 - **Performance Analysis**: Evaluating the percentage change in performance week over week.
