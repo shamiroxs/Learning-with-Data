@@ -19,9 +19,9 @@ This analysis aims to answer the following key questions:
 - **Trend Gross**: Tracking total gross revenue over different weeks of release.
 
 ## Files
-- **BFI_Film_Industry_Analysis.xlsx**: Contains all the data, analyses, and visualizations.
-- **BFI_Film_Industry_Presentation.pptx**: A PowerPoint presentation summarizing the analysis and findings.
-- **BFI_Key_Points_Action_Plan.docx**: A Word document outlining key points and recommended actions.
+- **LProject 01.xlsx**: Contains all the data, analyses, and visualizations.
+- **BFI Data Analysis.pptx**: A PowerPoint presentation summarizing the analysis and findings.
+- **Key Questions_.docx**: A Word document outlining key points and recommended actions.
 
 ## Snapshots of Documents
 
