@@ -14,6 +14,10 @@ This repository includes:
 3. **SQL Practice**: Developing skills in database management and query writing.
 4. **Exploratory Data Analysis (EDA)**: Projects focused on understanding and visualizing data.
 
+## Certificates and Proof of Learning
+
+To showcase my learning journey, I've included certificates and other proof of learning within the [certificates](certificates/) folder of this repository.
+
 ## Learning Outcomes
 
 These projects are meant to solidify my understanding of data analysis tools and techniques, while also preparing me for more advanced topics in the future.
