@@ -23,6 +23,14 @@ This analysis aims to answer the following key questions:
 - **BFI_Film_Industry_Presentation.pptx**: A PowerPoint presentation summarizing the analysis and findings.
 - **BFI_Key_Points_Action_Plan.docx**: A Word document outlining key points and recommended actions.
 
+## Snapshots of Documents
+
+### PowerPoint Presentation
+![Presentation Snapshot](images/presentation-snapshot.png)
+
+### Key Points & Action Plan Document
+![Document Snapshot](images/document-snapshot.png)
+
 ## Visuals
 Here are some snapshots of the analysis:
 
@@ -40,14 +48,6 @@ Here are some snapshots of the analysis:
 
 ### Trend Gross
 ![Trend Gross](images/trend-gross.png)
-
-## Snapshots of Documents
-
-### PowerPoint Presentation
-![Presentation Snapshot](images/presentation-snapshot.png)
-
-### Key Points & Action Plan Document
-![Document Snapshot](images/document-snapshot.png)
 
 ## Installation
 To view or modify the analysis, open the **BFI_Film_Industry_Analysis.xlsx** file in Excel.
