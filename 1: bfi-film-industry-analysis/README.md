@@ -49,6 +49,15 @@ Here are some snapshots of the analysis:
 ### Trend Gross
 ![Trend Gross](images/trend-gross.png)
 
+## Example Screenshot of TOC Sheet
+![TOC Screenshot](images/toc-sheet.png)
+
+## Certifications
+
+I completed the introductory course from CareerFoundry, which marked the beginning of my journey in data analysis. Here's a snapshot of the congratulatory message I received:
+
+![CareerFoundry Congrats](images/01.png)
+
 ## Installation
 To view or modify the analysis, open the **BFI_Film_Industry_Analysis.xlsx** file in Excel.
 
@@ -61,9 +70,6 @@ The Excel file **BFI_Film_Industry_Analysis.xlsx** is organized with a Table of 
 - **Performance Analysis**: Explore the 'Performance Analysis' sheet for insights on week-over-week performance.
 - **Weekly Trend Gross**: Use the 'Weekly Trend Gross' sheet to analyze the correlation between the number of films released and their weekend gross.
 - **Trend Gross**: View the 'Trend Gross' sheet to understand cumulative gross revenue trends.
-
-## Example Screenshot of TOC Sheet
-![TOC Screenshot](images/toc-sheet.png)
 
 ## Credits and Acknowledgments
 This project was inspired by the CareerFoundry YouTube channel and course materials:
