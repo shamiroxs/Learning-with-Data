@@ -18,8 +18,10 @@ This analysis aims to answer the following key questions:
 - **Weekly Trend Gross**: Analyzing the correlation between the number of films released and their weekend gross.
 - **Trend Gross**: Tracking total gross revenue over different weeks of release.
 
-## File
+## Files
 - **BFI_Film_Industry_Analysis.xlsx**: Contains all the data, analyses, and visualizations.
+- **BFI_Film_Industry_Presentation.pptx**: A PowerPoint presentation summarizing the analysis and findings.
+- **BFI_Key_Points_Action_Plan.docx**: A Word document outlining key points and recommended actions.
 
 ## Visuals
 Here are some snapshots of the analysis:
@@ -38,6 +40,14 @@ Here are some snapshots of the analysis:
 
 ### Trend Gross
 ![Trend Gross](images/trend-gross.png)
+
+## Snapshots of Documents
+
+### PowerPoint Presentation
+![Presentation Snapshot](images/presentation-snapshot.png)
+
+### Key Points & Action Plan Document
+![Document Snapshot](images/document-snapshot.png)
 
 ## Installation
 To view or modify the analysis, open the **BFI_Film_Industry_Analysis.xlsx** file in Excel.
