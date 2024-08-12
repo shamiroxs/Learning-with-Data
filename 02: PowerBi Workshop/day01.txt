@@ -1,0 +1,77 @@
+understand the data set
+think them as buckets (diff types)
+
+VISUALIZATION:
+- make a visualization
+- modify/format visual
+
+works like electricity 
+(if need more, pwr station send more)
+- power satation : data source(excel)
+- wire : powerBi linked with Excel
+
+transform data : power query
+
+tiles : every visual is inside a tile
+tile : card visual
+
+select card visual -> drop to field box
+
+cumulative (take sum of same people)
+
+[ loyalty program ] 
+- include customer giving more revenue : 
+
+"always start with y axis"
+y axis always a number
+
+[ colomn chart ] - compare
+each column is a cup (pore from total)
+legends : each column divided (x axis)
+tootltips : new on demand (on hovering)
+
+[ line chart ] - time (evaluate business)
+- cyclic BB, grow BB
+total order per quater
+quater - from a date format - drop down
+
+[ pie chart ] - only
+y axis : values
+x axis : legends
+legend: details
+tooltips : tooltips
+
+[ map ]
+location : country
+bubble  : sales
+
+[ slicer ] =  filter dashboard
+for each ship mode (profit,..)
+
+[ slicer ] - time period based filter
+last one | week/year/.. | profit/..
+drag time to slicer
+
+_____________________________
+
+how much is 20 days of your life 
+worth to you in money
+
+- Centerlised index
+basic excel user | 
+(manual)		(automation toolkits)
+
+create index :
+sd no | workshop name | description
+	sheet name     1st column
+
+.xlam - excel tool kit
+_____________________________
+DOUBTS:
+how do i know what to include in a dashboard?
+
+
+sql, 
+python, 
+pwr Bi/ tablu,
+ai, 

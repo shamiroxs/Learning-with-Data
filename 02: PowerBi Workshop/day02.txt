@@ -1,0 +1,110 @@
+Refresh data:
+- save excel changes
+- refresh
+
+Make Interactive
+- Decrease heights of all main visuals
+(see button properly)
+- dashboard act as filter
+- determine how it reacts
+- select (ruler) 
+rest are citizen
+- format tab - > edit interactions
+
+= none - no interaction (not used)
+= highlight - highlight selected, rest are faded
+= filter button - only selected data, rest are gone
+* filter interactivity is mainly used
+
+every visuals are set to filter
+10 visual give 36 lakh insights
+
+
+Share dashboard:
+
+- share offline
+save file -> 
+(stores excel copy in powerBI)
+table tool
+
+- share online : (powerBI sevice, powerBi app)
+= upload/create
+1file : report
+2file : semantic model (excel)
+3file : .pbix (duplicate) for safety
+
+export as ppt : export -> ppt
+- pdf : non interactive
+- ppt : interactive (only on web (pwrBi service))
+interactive dashboard in ppt
+-- website
+file -> embed report -> publish to web(public)
+(secured : accessed by who has dashboard)
+copy link-> website ready
+
+mobile layout ;
+icon -> auto-create
+__________________________________
+
+QUESTIONS :
+
+Total sales of copiers Only economy shipment
+total sales in france at 2017
+total profit from central region
+__________________________________
+
+Dashboard with Ai:
+... -> import a visual from a file
+
+insert -> Q & A (google in powerBi)
+
+Visual with Ai in Q & A -> turn q&a to std visual
+
+
+__________________________________
+
+DOUBTS:
+how to change location of linked excel?
+
+__________________________________
+
+Ai in powerBi
+copilot with Ai in powerBi
+advanced powerBi
+DAX formulas
+Power Query
+Excel
+__________________________________
+
+master basic to advanced ms Excel
+formulas, advanced pivot tables, 
+data visual
+macros
+
+DATA + Ai
+SQL : data driven future
+
+TableAu (brother of PowerBi)
+-predict and forcast (decision making)
+
+advaced powerpoint in 30 min
+chatGPT, prompt engineering, Ai Tools
+__________________________________
+
+MASTER CLASS : 1.4Lac | 12,200
+= video lessons (40min per 40days + 20days)
+- become a microsoft certified official expert
+- premium chatGPT for free
+- premium microsoft 365 (Ai) for free
+- powerBi service for free
+- advanced powerBI, Ms Execel, SQL,
+TableAu, PPT, chatGPT & Ai
+- amazon, google, accenture, meta, 
+capgemini, goldman sachs, k..
+- power query automations (cleaning data)
+ Ai, Data modelling + Perfection
+Excel essentials, Data visual & reports
+- virtual conceltent
+
+
+
