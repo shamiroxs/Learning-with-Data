@@ -15,7 +15,7 @@ This repository includes:
 
 3. **Certificates**:
    - **Workshop Completion Certificate**: 
-     ![Certificate](images/certificate.png)
+     ![Certificate](images/certificate.pdff)
 
 4. **Workshop Notes**:
    - `Day 1 - Notes.pdf`: Notes from the first day of the workshop.
